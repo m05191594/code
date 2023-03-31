@@ -4,7 +4,7 @@
 # Code Execution: 
 
 
-![alt text](os.png)
+![alt text](rafal.jpg)
 
 
 
